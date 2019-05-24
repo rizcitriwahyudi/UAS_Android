@@ -1,9 +1,9 @@
 # UAS_ANDROID
-Tampilan Login
+# Tampilan Login
 ![Alt text](lampiran1.jpg?raw=true "Title")
 
-Tampilan Register
+# Tampilan Register
 ![Alt text](lampiran2.jpg?raw=true "Title")
 
-Database MYSQL
+# Database MYSQL
 ![Alt text](lampiran3.PNG?raw=true "Title")
